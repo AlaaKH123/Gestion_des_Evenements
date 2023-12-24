@@ -1,0 +1,65 @@
+/* Style pour la liste des actions */
+/* src/app/components/action-list/action-list.component.css */
+
+/* src/app/components/action-list/action-list.component.css */
+
+h2 {
+  color: #9b34db;
+}
+
+div {
+  margin-bottom: 15px;
+}
+
+label {
+  font-weight: bold;
+  color: #333;
+}
+
+select, input[type="text"], input[type="number"] {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+.action-details {
+  display: flex;
+  align-items: center;
+}
+
+.action-details span {
+  cursor: pointer;
+  color: #3498db;
+  margin-right: 10px;
+}
+
+.action-buttons button {
+  margin-right: 10px;
+  cursor: pointer;
+  background-color: #3498db;
+  color: white;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 5px;
+}
+
+.action-buttons button:hover {
+  background-color: #2980b9;
+  text-decoration: underline;
+}
+
+
+
+  

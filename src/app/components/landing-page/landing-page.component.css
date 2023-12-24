@@ -1,0 +1,66 @@
+/* src/app/components/landing-page/landing-page.component.css */
+
+/* src/app/components/landing-page/landing-page.component.css */
+
+.landing-page {
+  text-align: center;
+  padding: 50px;
+  background-color: #ecf0f1;
+}
+
+header {
+  margin-bottom: 30px;
+}
+
+h1 {
+  color:#9b34db;
+}
+
+.hero {
+  background-color: #dcdcdc;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+
+.hero-text {
+  max-width: 600px;
+  margin: auto;
+  color: #333;
+}
+
+.features {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 30px;
+}
+
+.feature {
+  text-align: center;
+}
+
+.feature-icon {
+  font-size: 2em;
+  color: #9b34db;;
+  margin-bottom: 10px;
+}
+
+.cta {
+  margin-top: 30px;
+}
+
+.btn-primary {
+  background-color: #9b34db;;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.btn-primary:hover {
+  background-color:#9b34db;;
+}
+
+
+  

@@ -1,0 +1,44 @@
+/* Style pour le header */
+
+/* src/app/components/header/header.component.css */
+
+header {
+  background-color: #9b34db;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  font-size: 1.5em;
+}
+
+nav {
+  margin-top: 15px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  margin-right: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+  
